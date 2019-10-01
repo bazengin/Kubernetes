@@ -1,5 +1,7 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
+# deploys a k3s-master final version
+# https://k3s.io/
 
 VAGRANT_API = 2
 
