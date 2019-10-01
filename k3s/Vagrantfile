@@ -1,6 +1,9 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
-# deploys a k3s-master final version
+# deploys a k3s vm
+# what is k3s:
+# K3s is a Certified Kubernetes distribution designed for production 
+# workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 # https://k3s.io/
 
 VAGRANT_API = 2
